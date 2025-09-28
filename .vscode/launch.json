@@ -1,0 +1,9 @@
+{
+  "name": "Chạy PHP Web",
+  "type": "php",
+  "request": "launch",
+  "port": 0,
+  "runtimeExecutable": "php",
+  "program": "${file}",
+  "cwd": "${workspaceFolder}"
+}
